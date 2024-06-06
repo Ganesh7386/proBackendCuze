@@ -1,4 +1,4 @@
-const {startScraping} = require("./scraper")
+const {startScraping} = require("../scraper")
 const express = require("express");
 const cors = require("cors");
 var bodyParser = require('body-parser')
